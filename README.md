@@ -2,7 +2,7 @@
 
 Proyecto desarrollado con el fin de aplicar los conceptos básicos del framework Nestjs
 
-## Cómo correr apliación
+## Cómo correr la aplicación
 
 1. Clone el repositorio
 2. Ejecute
